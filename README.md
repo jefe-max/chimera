@@ -1,4 +1,5 @@
 # jobs
+My first Vue and typescript demo project.
 
 ## Project setup
 ```
